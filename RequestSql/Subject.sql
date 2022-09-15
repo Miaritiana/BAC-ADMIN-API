@@ -1,0 +1,11 @@
+insert into subject values(1,'Mathematiques');
+insert into subject values(2,'Physique chimie');
+insert into subject values(3,'SVT');
+insert into subject values(4,'Histoire Geographie');
+insert into subject values(5,'Philosophie');
+insert into subject values(6,'Anglais');
+insert into subject values(7,'Malagasy');
+insert into subject values(8,'Francais');
+insert into subject values(9,'EPS');
+insert into subject values(10,'Espagnol');
+insert into subject values(11,'Allemand');
